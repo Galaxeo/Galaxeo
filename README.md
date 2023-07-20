@@ -1,24 +1,18 @@
 ### Hi I'm Justin 👋 ([cheok.works](https://cheok.works))
-**I'm an aspiring full-stack developer, keyboard builder on the side.**
+**I'm an aspiring full-stack developer and a keyboard builder on the side.**
 
 - Student at New York University
+- Former intern at Artemis Networks
+- Previously worked on Data Science/Visualization projects & Graph Search in AI
 - Currently learning Typescript & React
 
 Main Languages:
 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a>
 
-<!--
-**Galaxeo/galaxeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:
+- :email: Email: [hwjustincheok@gmail.com](mailto:hwjustincheok@gmail.com)
+- <a href="https://www.linkedin.com/in/jhcheok/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="18" height="18"/> </a> LinkedIn: [jhcheok](https://www.linkedin.com/in/jhcheok/)
+- :octocat: Github: [galaxeo](https://github.com/galaxeo)
+- 📥 Discord: galaxeo
+- :tv: YouTube: [galaxeo](https://www.youtube.com/@galaxeo)
