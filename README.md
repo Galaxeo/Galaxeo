@@ -4,7 +4,7 @@
 - Student at New York University
 - Former intern at Artemis Networks
 - Previously worked on Data Science/Visualization projects & Graph Search in AI
-- Currently learning Typescript & React
+- Currently learning JavaScript, TypeScript, & React
 
 Main Languages:
 
