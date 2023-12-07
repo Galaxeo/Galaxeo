@@ -17,7 +17,7 @@ Familiar with:
 Tools:
 
 <a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="30" height="30"/></a>
-<a href="https://www.vim.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="30" height="30"/></a>
+<a href="https://www.vim.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="30" height="30"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/></a>
 <a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="30" height="30"/></a>
 <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="30" height="30"/></a>
@@ -26,8 +26,8 @@ Tools:
 
 
 📫 How to reach me:
-- 📧: Email: [hwjustincheok@gmail.com](mailto:hwjustincheok@gmail.com)
-- <a href="https://www.linkedin.com/in/jhcheok/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="18" height="18"/> </a> LinkedIn: [jhcheok](https://www.linkedin.com/in/jhcheok/)
+- 📧 Email: [hwjustincheok@gmail.com](mailto:hwjustincheok@gmail.com)
+- <a href="https://www.linkedin.com/in/jhcheok/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="18" height="18"/></a> LinkedIn: [jhcheok](https://www.linkedin.com/in/jhcheok/)
 - 🖥️ GitHub: [galaxeo](https://github.com/galaxeo)
 - 📥 Discord: [galaxeo](https://discord.com/users/145233783098966016)
 - 📺 YouTube: [galaxeo](https://www.youtube.com/@galaxeo)
