@@ -1,5 +1,5 @@
 ### Hi I'm Justin 👋 ([cheok.works](https://cheok.works))
-**I'm an aspiring full-stack developer and a keyboard builder on the side.**
+**I'm a full-stack developer and a keyboard builder on the side.**
 
 - Student at New York University
 - Former intern at Artemis Networks
