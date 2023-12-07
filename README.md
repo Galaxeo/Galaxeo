@@ -26,8 +26,8 @@ Tools:
 
 
 📫 How to reach me:
-- :email: Email: [hwjustincheok@gmail.com](mailto:hwjustincheok@gmail.com)
+- 📧: Email: [hwjustincheok@gmail.com](mailto:hwjustincheok@gmail.com)
 - <a href="https://www.linkedin.com/in/jhcheok/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="18" height="18"/> </a> LinkedIn: [jhcheok](https://www.linkedin.com/in/jhcheok/)
-- :octocat: GitHub: [galaxeo](https://github.com/galaxeo)
+- 🖥️ GitHub: [galaxeo](https://github.com/galaxeo)
 - 📥 Discord: [galaxeo](https://discord.com/users/145233783098966016)
-- :tv: YouTube: [galaxeo](https://www.youtube.com/@galaxeo)
+- 📺 YouTube: [galaxeo](https://www.youtube.com/@galaxeo)
